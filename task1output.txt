@@ -1,0 +1,5 @@
+t5_2qh1i	292	['t3_2qwm98', 't3_2qy2qk']	[9, 13]
+t5_2qiel	85	['t3_2qybjq', 't3_2qykl8']	[10, 11]
+t5_2qh33	84	['t3_2qyrvt', 't3_2qxlve']	[4, 6]
+t5_2qh0u	83	['t3_2qwwwp', 't3_2qymzn']	[4, 7]
+t5_2sgp1	80	['t3_2qyq68', 't3_2qvajb']	[3, 4]
